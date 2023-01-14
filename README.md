@@ -1,6 +1,14 @@
 # EE346_Lab6
 LiDAR-Based Navigation with TurtleBot3
 
+### Contents 
+
+- [ArUco Marker Recognition and Its Use for Pose Estimation](https://github.com/SunstanYu/EE346_Line_Follower.git)
+- [LiDAR-Based Navigation with TurtleBot3](https://github.com/SunstanYu/EE346_Lab6.git)
+- [Autonomous Navigation with SMACH](https://github.com/SunstanYu/EE346_Lab7.git)
+
+### Usage
+
 Clone source code
 
 ```bash
